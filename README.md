@@ -1,4 +1,4 @@
-# PhotoViewerApp-in-c-sharp
+# PhotoViewerApp in C#
 
 ![forthebadge](https://forthebadge.com/images/badges/built-by-developers.svg)
 
